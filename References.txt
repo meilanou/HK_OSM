@@ -1,0 +1,14 @@
+Python Documentation
+https://docs.python.org/2/contents.html
+MongoDB Manual
+http://docs.mongodb.org/manual/
+PyMongo API
+http://api.mongodb.org/python/current/api/index.html
+OpenStreetMap Wiki
+https://wiki.openstreetmap.org/wiki/Main_Page
+Stackoverflow
+http://stackoverflow.com/
+Chungking Mansions
+http://en.wikipedia.org/wiki/Chungking_Mansions
+The Gate to Chungking Mansion
+http://www.chungking-mansions.hk/index.html

@@ -1,0 +1,13 @@
+Hong Kong Central Part
+https://www.openstreetmap.org/export#map=17/22.29638/114.17193&layers=C
+
+After skimming through OSM common map features, I feel that among all the cities I've visited, I should be able to find 
+almost every type of the features in the area. Because although HK is cramped with highrises, it's actually consisted of
+many hills and coastlines. And the complex infrustructure (aeroway, aerialway, waterway, crossing and etc) that HK has 
+should bring me some interesting findings. And the data size is big enough but not too big to crash my PC.
+
+For exploration I use the map data of entire HK. But for auditing and cleaning I focus on Chungking Mansion whish is
+located at the center of HK.
+
+OSM data source: https://s3.amazonaws.com/metro-extracts.mapzen.com/hong-kong_china.osm.bz2
+Chungking Mansion: https://www.openstreetmap.org/export#map=17/22.29638/114.17193&layers=C
